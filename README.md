@@ -3,6 +3,15 @@ Analysis of CT texture features of visceral adipose tissue for evaluation of met
 
 ![](/diagram.png)
 
+## Citation
+
+Juan Shi<sup>1</sup>, Guoqing Bao<sup>1</sup>, Jie Hong<sup>1</sup>, Simin Wang, Yufei Chen, Shaoqian Zhao, Aibo Gao, Ru Zhang, Jingfen Hu, Wenjie Yang, Fuhua Yan, Ankang Lv, Ruixin Liu, Bin Cui, Yifei Zhang, Weiqiong Gu, Dagan Feng, Weiqing Wang, Jiqiu Wang, Xiuying Wang, Guang Ning, “Deciphering CT texture features of human visceral fat to evaluate metabolic disorders and surgery-induced weight loss effects”, _EBiomedicine_, vol. 69, p. 103471, 2021, doi: 10.1016/j.ebiom.2021.103471.
+
+<sup>1</sup> Co-first authors.
+
+Full-text paper access from the Lancet: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00264-4/fulltext
+
+
 ## Prerequisites
 
 ### The following libraries are required:
